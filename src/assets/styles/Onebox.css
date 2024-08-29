@@ -1,0 +1,29 @@
+.onebox-container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .thread-list {
+    width: 30%;
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+  
+  .thread-details {
+    width: 70%;
+    padding: 20px;
+  }
+  
+  .thread-list div {
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .thread-details h2 {
+    margin-top: 0;
+  }
+  
+  .thread-details button {
+    margin-top: 20px;
+  }
+  
